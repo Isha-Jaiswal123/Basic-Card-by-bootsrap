@@ -1,0 +1,23 @@
+.card{
+  
+  width: 300px;
+margin:10px;
+}
+body{
+  background-color: teal;
+}
+h1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 3rem;
+ font-size: 40px;
+ color: black;
+ font-weight: bold;
+}
+.all{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
